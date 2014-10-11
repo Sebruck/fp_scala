@@ -1,0 +1,1 @@
+List(1,2,3).foldRight(Nil:List[Int])(::(_, _))
